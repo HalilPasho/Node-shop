@@ -1,0 +1,3 @@
+[submodule "FE-React"]
+	path = FE-React
+	url = https://github.com/HalilPasho/Node-shop.git
